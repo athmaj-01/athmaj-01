@@ -1,4 +1,4 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Athmaj&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=BCA%20Student%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=65&descSize=18&descAlign=50)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Athmaj&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Btechcse%20Student%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=65&descSize=18&descAlign=50)
 
 <div align="center">
 
