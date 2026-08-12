@@ -16,7 +16,7 @@ class Athmaj:
         self.name = "Athmaj"
         self.role = "Full-Stack Developer | AI Enthusiast"
         self.location = "India 🇮🇳"
-        self.education = "BCA Student (2024-2027)"
+        self.education = "Btech cse Student (2026-2030)"
         self.github = "https://github.com/athmaj-01"
         
         self.languages = ["JavaScript", "Python", "Java", "HTML", "CSS", "TypeScript"]
